@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\bin\Debug\net10.0\ToDo.exe
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\bin\Debug\net10.0\ToDo.deps.json
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\bin\Debug\net10.0\ToDo.runtimeconfig.json
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\bin\Debug\net10.0\ToDo.dll
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\bin\Debug\net10.0\ToDo.pdb
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\obj\Debug\net10.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\obj\Debug\net10.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\obj\Debug\net10.0\ToDo.AssemblyInfo.cs
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\obj\Debug\net10.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\obj\Debug\net10.0\ToDo.dll
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\obj\Debug\net10.0\refint\ToDo.dll
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\obj\Debug\net10.0\ToDo.pdb
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\obj\Debug\net10.0\ToDo.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\ToDo\obj\Debug\net10.0\ref\ToDo.dll
