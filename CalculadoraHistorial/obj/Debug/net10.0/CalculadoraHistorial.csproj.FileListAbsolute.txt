@@ -1,0 +1,15 @@
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\bin\Debug\net10.0\CalculadoraHistorial.exe
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\bin\Debug\net10.0\CalculadoraHistorial.deps.json
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\bin\Debug\net10.0\CalculadoraHistorial.runtimeconfig.json
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\bin\Debug\net10.0\CalculadoraHistorial.dll
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\bin\Debug\net10.0\CalculadoraHistorial.pdb
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\obj\Debug\net10.0\CalculadoraHistorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\obj\Debug\net10.0\CalculadoraHistorial.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\obj\Debug\net10.0\CalculadoraHistorial.AssemblyInfo.cs
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\obj\Debug\net10.0\CalculadoraHistorial.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\obj\Debug\net10.0\CalculadoraHistorial.sourcelink.json
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\obj\Debug\net10.0\CalculadoraHistorial.dll
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\obj\Debug\net10.0\refint\CalculadoraHistorial.dll
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\obj\Debug\net10.0\CalculadoraHistorial.pdb
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\obj\Debug\net10.0\CalculadoraHistorial.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\tl1-tp8-2026-pablobelmonteok-glitch\CalculadoraHistorial\obj\Debug\net10.0\ref\CalculadoraHistorial.dll
